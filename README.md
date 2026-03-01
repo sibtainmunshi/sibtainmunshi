@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/930c52cf-a2a2-4959-b637-cc5c952c3120)
 # 💫 About Me:
 <br>🤝 I’m looking to collaborate on<br><br>Real client projects (web apps, web sites, applications)<br>Open-source Flask / backend projects<br>Startup-style MVP builds<br><br>⚡ Fun fact<br><br>I build faster with AI assistance — but I make sure I understand the logic behind it.<br><br>
 
