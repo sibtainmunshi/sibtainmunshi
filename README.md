@@ -1,22 +1,65 @@
-![Image](https://github.com/user-attachments/assets/930c52cf-a2a2-4959-b637-cc5c952c3120)
-# 💫 About Me:
-<br>🤝 I’m looking to collaborate on<br><br>Real client projects (web apps, web sites, applications)<br>Open-source Flask / backend projects<br>Startup-style MVP builds<br><br>⚡ Fun fact<br><br>I build faster with AI assistance — but I make sure I understand the logic behind it.<br><br>
+![banner](https://github.com/user-attachments/assets/930c52cf-a2a2-4959-b637-cc5c952c3120)
 
+<h1 align="center">Hey, I'm Sibtain 👋</h1>
+<p align="center">
+  <b>Full-stack developer · B.Tech CSE (AI) @ LJ University, Ahmedabad</b><br/>
+  I ship production web apps end-to-end — and I'm most drawn to products where a model does real work behind the interface.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sibtain_munshi_43) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/SibtainMunshi](https://www.linkedin.com/in/sibtain-munshi-354477331/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MunshiSibtain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibtainhaidarzmunshi@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sibtainmunshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sibtainmunshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sibtainmunshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sibtainmunshi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sibtain-munshi-354477331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sibtainhaidarzmunshi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/MunshiSibtain"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://afsuham.com"><img src="https://img.shields.io/badge/Live%20client%20work-afsuham.com-2ea44f?style=flat"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sibtainmunshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Right now
+- 💼 **Freelance full-stack developer** (Jan 2026 – present) — single-handedly built and deployed [afsuham.com](https://afsuham.com) for a paying client in under three weeks
+- 🔍 **Looking for a Software Developer internship** — full-stack or Python backend
+- 🏆 **Rank 1** at *Build with AI – Vibe Code with Gemini* (Ahmedabad Developer Club)
+
+---
+
+### 🛠️ Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[afsuham.com](https://afsuham.com)**<br/><sub>client project</sub> | Investor portal + role-based admin dashboard for a multi-sector investment firm. Live Razorpay payments, reCAPTCHA-hardened EOI portal, Calendly booking, in-browser PDF flipbook, Playwright E2E tests. | Next.js 16 · React 19 · TypeScript · MongoDB · Prisma · NextAuth |
+| **[SignalScope](https://github.com/sibtainmunshi/Signal_Scope)**<br/><sub>SIH 2026 internal round</sub> | Real-vs-AI image detector on a frozen CLIP ViT-L/14 backbone with a custom MLP head. **0.948 / 0.936 ROC-AUC** on unseen 2025-26 generators (up from ~55-60%), with explainability maps, robustness tests and C2PA provenance checks. | PyTorch · CLIP · FastAPI · scikit-learn |
+| **TripSphere** | Group-trip planner across nine Django REST apps — expense settlement, group chat, bookings, document vault. Gemini turns a chat into a structured itinerary; a Random Forest predicts trip budgets for 110 Indian destinations. | Django REST · React 19 · TypeScript · PostgreSQL · Gemini |
+| **Ascend** | Gamified 3D study room — walk your avatar to run focus sessions and earn XP, coins, levels and items. | React Three Fiber · Three.js · TypeScript · Express · MongoDB |
+| **[Salah Diary](https://github.com/sibtainmunshi/SalahDiary)** | Offline-first Android prayer tracker — location-based times, Qibla compass, streaks, notifications, Firebase sync. | Capacitor · JavaScript · Firebase |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages** <br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" />
+
+**Frontend** <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+
+**Backend & Databases** <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,prisma" />
+
+**ML & AI** <br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+
+**Tools & Platforms** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,firebase" />
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sibtainmunshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibtainmunshi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>I build fast with AI in the loop — and I make sure I understand every line I ship.</i></p>
